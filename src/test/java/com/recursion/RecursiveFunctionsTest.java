@@ -135,7 +135,6 @@ class RecursiveFunctionsTest {
         assertTrue(recursivePalindrome("rotor"));
         assertTrue(recursivePalindrome("civic"));
         assertTrue(recursivePalindrome("deified"));
-
         assertFalse(recursivePalindrome("hello"));
         assertFalse(recursivePalindrome("world"));
         assertFalse(recursivePalindrome("java"));
